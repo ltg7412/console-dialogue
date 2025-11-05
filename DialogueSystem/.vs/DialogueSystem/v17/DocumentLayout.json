@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Profiles\\ltg7412\\Desktop\\Programming\\dialogue-system\\DialogueSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C9DA74-61BC-4D86-9C13-7503C475073A}|DialogueSystem\\DialogueSystem.csproj|d:\\profiles\\ltg7412\\desktop\\programming\\dialogue-system\\dialoguesystem\\dialoguesystem\\dialogue\\nazar.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2C9DA74-61BC-4D86-9C13-7503C475073A}|DialogueSystem\\DialogueSystem.csproj|solutionrelative:dialoguesystem\\dialogue\\nazar.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C9DA74-61BC-4D86-9C13-7503C475073A}|DialogueSystem\\DialogueSystem.csproj|d:\\profiles\\ltg7412\\desktop\\programming\\dialogue-system\\dialoguesystem\\dialoguesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C9DA74-61BC-4D86-9C13-7503C475073A}|DialogueSystem\\DialogueSystem.csproj|solutionrelative:dialoguesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C9DA74-61BC-4D86-9C13-7503C475073A}|DialogueSystem\\DialogueSystem.csproj|d:\\profiles\\ltg7412\\desktop\\programming\\dialogue-system\\dialoguesystem\\dialoguesystem\\passage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C9DA74-61BC-4D86-9C13-7503C475073A}|DialogueSystem\\DialogueSystem.csproj|solutionrelative:dialoguesystem\\passage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C9DA74-61BC-4D86-9C13-7503C475073A}|DialogueSystem\\DialogueSystem.csproj|d:\\profiles\\ltg7412\\desktop\\programming\\dialogue-system\\dialoguesystem\\dialoguesystem\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C9DA74-61BC-4D86-9C13-7503C475073A}|DialogueSystem\\DialogueSystem.csproj|solutionrelative:dialoguesystem\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 299,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 101,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Option.cs",
+              "DocumentMoniker": "D:\\Profiles\\ltg7412\\Desktop\\Programming\\dialogue-system\\DialogueSystem\\DialogueSystem\\Option.cs",
+              "RelativeDocumentMoniker": "DialogueSystem\\Option.cs",
+              "ToolTip": "D:\\Profiles\\ltg7412\\Desktop\\Programming\\dialogue-system\\DialogueSystem\\DialogueSystem\\Option.cs",
+              "RelativeToolTip": "DialogueSystem\\Option.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T20:40:10.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Passage.cs",
+              "DocumentMoniker": "D:\\Profiles\\ltg7412\\Desktop\\Programming\\dialogue-system\\DialogueSystem\\DialogueSystem\\Passage.cs",
+              "RelativeDocumentMoniker": "DialogueSystem\\Passage.cs",
+              "ToolTip": "D:\\Profiles\\ltg7412\\Desktop\\Programming\\dialogue-system\\DialogueSystem\\DialogueSystem\\Passage.cs",
+              "RelativeToolTip": "DialogueSystem\\Passage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T20:40:02.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nazar.json",
+              "DocumentMoniker": "D:\\Profiles\\ltg7412\\Desktop\\Programming\\dialogue-system\\DialogueSystem\\DialogueSystem\\Dialogue\\nazar.json",
+              "RelativeDocumentMoniker": "DialogueSystem\\Dialogue\\nazar.json",
+              "ToolTip": "D:\\Profiles\\ltg7412\\Desktop\\Programming\\dialogue-system\\DialogueSystem\\DialogueSystem\\Dialogue\\nazar.json",
+              "RelativeToolTip": "DialogueSystem\\Dialogue\\nazar.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T20:35:57.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Profiles\\ltg7412\\Desktop\\Programming\\dialogue-system\\DialogueSystem\\DialogueSystem\\Program.cs",
+              "RelativeDocumentMoniker": "DialogueSystem\\Program.cs",
+              "ToolTip": "D:\\Profiles\\ltg7412\\Desktop\\Programming\\dialogue-system\\DialogueSystem\\DialogueSystem\\Program.cs",
+              "RelativeToolTip": "DialogueSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T20:35:24.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

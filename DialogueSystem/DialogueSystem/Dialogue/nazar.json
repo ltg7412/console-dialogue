@@ -1,0 +1,26 @@
+{
+  "name": "Nazar",
+  "starting_passage": "start",
+  "passages": {
+    "start": {
+      "text": "Hey! I'm Nazar.'",
+      "options": [
+        {
+          "text": "What's up dude?",
+          "link": "wsp"
+        },
+        {
+          "text": "I LOVE YOU NAZAR I LOVE YOU!",
+          "link": "love"
+        },
+        {
+          "text": "kill yourself!",
+          "link": "kys"
+        }
+      ]
+    },
+    "kys": {
+      "text": ""
+    }
+  }
+}
