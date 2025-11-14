@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
             DialogueReader dialogue = new("nazar.json");
+            dialogue.Debug();
         }
     }
 }

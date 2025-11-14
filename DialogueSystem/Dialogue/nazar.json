@@ -3,7 +3,7 @@
   "starting_passage": "start",
   "passages": {
     "start": {
-      "text": "Hey! I'm Nazar.'",
+      "text": "Hey! I'm Nazar.",
       "options": [
         {
           "text": "What's up dude?",
@@ -20,7 +20,13 @@
       ]
     },
     "kys": {
-      "text": ""
+      "text": "Boo hoo oh no I guess I have to kill myself now",
+      "options": [
+        {
+          "text": "start over",
+          "link": "start"
+        }
+      ]
     }
   }
 }

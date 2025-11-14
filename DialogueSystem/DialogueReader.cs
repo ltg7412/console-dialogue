@@ -19,13 +19,22 @@ namespace DialogueSystem
 
             try
             {
+                var options = new JsonSerializerOptions
+                {
+                    IncludeFields = true
+                };
                 string jsonString = File.ReadAllText(filePath);
-                JsonSerializer.Deserialize<>(jsonString);
+                dialogue = JsonSerializer.Deserialize<Dialogue>(jsonString, options);
             }
             catch (IOException e)
             {
                 Console.WriteLine($"Error reading Json File '{filePath}': {e.Message}");
             }
+        }
+
+        internal void Debug()
+        {
+            dialogue.Debug();
         }
     }
 }
