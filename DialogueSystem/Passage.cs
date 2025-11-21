@@ -14,5 +14,14 @@ namespace DialogueSystem
 
         [JsonPropertyName("options")]
         public Option[] Options { get; set; }
+
+        internal Option[] GetOptions()
+        {
+            return Options;
+        }
+        internal string GetText()
+        {
+            return Text;
+        }
     }
 }

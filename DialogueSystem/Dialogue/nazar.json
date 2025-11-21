@@ -3,27 +3,70 @@
   "starting_passage": "start",
   "passages": {
     "start": {
-      "text": "Hey! I'm Nazar.",
+      "text": "What's up",
       "options": [
         {
-          "text": "What's up dude?",
-          "link": "wsp"
+          "text": "Shut up",
+          "link": "sybau"
         },
         {
-          "text": "I LOVE YOU NAZAR I LOVE YOU!",
-          "link": "love"
+          "text": "Hey, what's going on?",
+          "link": "wsg"
         },
         {
-          "text": "kill yourself!",
-          "link": "kys"
+          "text": "*ignore nazar and talk to the brick wall behind him*",
+          "link": "wall"
         }
       ]
     },
-    "kys": {
-      "text": "Boo hoo oh no I guess I have to kill myself now",
+    "sybau": {
+      "text": "Boo hoo",
       "options": [
         {
-          "text": "start over",
+          "text": "I was just kidding",
+          "link": "start"
+        },
+        {
+          "text": "Bye",
+          "link": "start"
+        }
+      ]
+    },
+    "wsg": {
+      "text": "Just living my crippled life.",
+      "options": [
+        {
+          "text": "Scootering around?",
+          "link": "wsg"
+        },
+        {
+          "text": "You're nasty",
+          "link": "sybau"
+        }
+      ]
+    },
+    "wall": {
+      "text": "Hey! Over here!",
+      "options": [
+        {
+          "text": "Continue talking to the wall",
+          "link": "wall2"
+        },
+        {
+          "text": "Talk to Nazar",
+          "link": "start"
+        }
+      ]
+    },
+    "wall2": {
+      "text": "I'm leaving.",
+      "options": [
+        {
+          "text": "Continue talking to the wall",
+          "link": "sybau"
+        },
+        {
+          "text": "Talk to Nazar",
           "link": "start"
         }
       ]

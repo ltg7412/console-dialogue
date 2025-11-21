@@ -4,8 +4,12 @@
     {
         static void Main(string[] args)
         {
-            DialogueReader dialogue = new("nazar.json");
-            dialogue.Debug();
+            DialogueReader reader = new("nazar.json");
+
+            while (true)
+            {
+                reader.Next();
+            }
         }
     }
 }
